@@ -9,7 +9,7 @@ public class Triangle extends GeometricObject {
 	/**
 	 * no-arg constructor for default Triangle 
 	 */
-	public Triangle(){
+	public Triangle() {
 		
 	}
 	/**
